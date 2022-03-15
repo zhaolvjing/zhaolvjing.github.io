@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: 我是风，自由的风
+description: 遇见更好的自己～
+url: https://zhaolvjing.github.io
+avatar: /image/profile.jpeg
+cover_image: /image/bg.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
 
 # Gems
 plugins:
@@ -27,18 +27,11 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
+# Optimize Jekyll SEO Tag
 social:
-  name: Songzi Vong
+  name: zhaolvjing
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+    - https://github.com/zhaolvjing
 
 sass:
   sass_dir: _sass
@@ -54,6 +47,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: zhaolvjing
+  url: https://github.com/zhaolvjing
+  email: zhaolvjing@163.com
