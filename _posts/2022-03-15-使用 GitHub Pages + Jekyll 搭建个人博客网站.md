@@ -16,7 +16,7 @@ Jekyll主题库：[Jekyll Themes](http://jekyllthemes.org/)，可以挑选自己
 * Ruby：`ruby -v`（version 2.5.0 or higher）
 * RubyGems：`gem -v`
 * GCC and Make：`gcc -v`，`g++ -v`，`make -v`
-* Jekyll：`jekyll -v`，如果没有安装，执行`sudo gem install jekyll
+* Jekyll：`jekyll -v`，如果没有安装，执行`sudo gem install jekyll`
 
 ## Jekyll 配置文件简介
 这里只列出几个比较关键的文件目录，其他的一些配置文件可参考别人的主题仓库进行理解。
